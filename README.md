@@ -1,7 +1,5 @@
 # Myntra-Social-Media-Analytics-for-Strategic-Branding
 
-# Myntra Social Media Analytics 📊
-
 An Excel-based analytics project focused on evaluating Myntra’s social media performance and generating actionable insights for marketing strategy.
 
 ---
