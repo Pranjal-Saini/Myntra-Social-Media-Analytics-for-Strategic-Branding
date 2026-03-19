@@ -44,11 +44,12 @@ Analyzed social media data across platforms like Instagram, YouTube, and Faceboo
 ---
 
 ## 📂 Project Structure
-/data → Raw dataset
-/analysis → Excel workbooks
-/dashboards → Visual insights
-README.md
-
+project-root/
+│
+├── data/ → Raw dataset
+├── analysis/ → Excel workbooks
+├── dashboards/ → Visual insights
+└── README.md
 
 ## 🚀 Outcome
 
