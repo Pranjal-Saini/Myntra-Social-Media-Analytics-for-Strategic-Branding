@@ -44,12 +44,8 @@ Analyzed social media data across platforms like Instagram, YouTube, and Faceboo
 ---
 
 ## 📂 Project Structure
-project-root/
-│
-├── data/ → Raw dataset
-├── analysis/ → Excel workbooks
-├── dashboards/ → Visual insights
-└── README.md
+<img width="520" height="217" alt="image" src="https://github.com/user-attachments/assets/7ec2e294-55d8-49f7-ada0-0275bad0755d" />
+
 
 ## 🚀 Outcome
 
