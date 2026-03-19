@@ -44,8 +44,22 @@ Analyzed social media data across platforms like Instagram, YouTube, and Faceboo
 ---
 
 ## 📂 Project Structure
-<img width="520" height="217" alt="image" src="https://github.com/user-attachments/assets/7ec2e294-55d8-49f7-ada0-0275bad0755d" />
-
+```
+Myntra-Social-Media-Analytics/
+│
+├── data/ # Myntra DataSet 
+│ ├── 00_Myntra_Social_Media_Analytics.xlsx
+│
+├── analysis/ #Data Analysis
+| ├── 01_Data_Validation
+│ ├── 02_Engagement_Analysis
+│ ├── 03_Platform_Analysis
+│ ├── 04_Hashtag_Content_Strategy
+│ ├── 05_Campaign_Effectiveness
+│ └── 06_Follower_Retention_Loyalty
+│
+└── README.md/ #Project Details 
+```
 
 ## 🚀 Outcome
 
